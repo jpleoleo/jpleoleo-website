@@ -1,0 +1,9 @@
+{
+    "mode": "one-to-one",
+    "chatMembersLimit": 1,
+    "chatUserName": "set",
+    "normalWidth": 300,
+    "normalHeight": 400,
+    "maximumWidth": 400,
+    "maximumHeight": 600
+}

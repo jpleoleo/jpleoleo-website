@@ -1,0 +1,9 @@
+{
+    "mode": "admin-clients",
+    "chatMembersLimit": 1,
+    "chatUserName": "set",
+    "normalWidth": 340,
+    "normalHeight": 520,
+    "maximumWidth": 392,
+    "maximumHeight": 600
+}

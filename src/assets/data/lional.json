@@ -1,0 +1,418 @@
+{
+    "name": "Lional. J.",
+    "iam": [
+        "FrontEnd/UI Architect, FrontEnd/UI Developer, Angular/React Expert, Flutter Developer, Hybrid Mobile App Developer"
+    ],
+    "about": {
+        "title": "About",
+        "details": [
+            "Technically Sophisticated Professional with nearly 12 years of experience in areas of Software Developing and Programming in web environment.",
+            "Have Experience in SDLC and SAAS Development more than 4 year in UI Architectural Platform with various JS Frameworks.",
+            "Adept in end-to-end development of software products from requirements analysis to system study, designing, coding, testing, de-bugging, documentation and implementation.",
+            "Deft at mapping the requirements, custom designing solution & troubleshooting for complex software & application programs.",
+            "Excellent communication & interpersonal skills with abilities in resolving complex software issues.",
+            "Team Management and Architectural Guidance."
+        ],
+        "subTitle": "FrontEnd, UI & Web Developer",
+        "description": "As a front-end developer, I creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app",
+        "othersL": [
+            {
+                "title": "Website",
+                "info": "www.jpleoleo.com"
+            },
+            {
+                "title": "City",
+                "info": "Bangalore, KA, INDIA."
+            }
+        ],
+        "othersR": [
+            {
+                "title": "Degree",
+                "info": "Master"
+            },
+            {
+                "title": "E-mail",
+                "info": "jpleoleo@gmail.com"
+            }
+        ],
+        "otherInfoTitle": "Functional",
+        "otherInfo": [
+            "Define best practice for project support and documentation.",
+            "Developing, testing, troubleshooting and debugging of the applications.",
+            "Managing smooth implementation and testing of application.",
+            "Providing post-implementation, application maintenance and enhancement support to the client with regard the product and the software application.",
+            "Cooperating & communicating with other team members for efficient management work.",
+            "Managing & providing technical guidance/support to the project team.",
+            "Automation Programming to create auto build.",
+            "Code Validation and Management"
+        ]
+    },
+    "facts": {
+        "title": "Facts",
+        "details": "A passionate coder",
+        "list": [
+            {
+                "icon": "bi bi-emoji-smile",
+                "countEnd": "100",
+                "description": "Happy Coding"
+            },
+            {
+                "icon": "bi-journal-richtext",
+                "countEnd": "100",
+                "description": "E-to-E Development"
+            },
+            {
+                "icon": "bi bi-book",
+                "countEnd": "100",
+                "description": "Quick Learning"
+            },
+            {
+                "icon": "bi-person-workspace",
+                "countEnd": "100",
+                "description": "Hard Working"
+            }
+        ]
+    },
+    "skills": {
+        "title": "Skills",
+        "details": " ",
+        "list": [
+            {
+                "icon": "",
+                "title": "HTML5",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "CSS3/4",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "JavaScript",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "Typescript",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "jQuery",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "Angular 2+",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "React 16+",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "NextJs",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "GraphQl",
+                "percentage": "80"
+            },
+            {
+                "icon": "",
+                "title": "Bootstrap",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "Material UI",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "PrimeNG",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "WebSockets",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "Ionic 3/4",
+                "percentage": "85"
+            },
+            {
+                "icon": "",
+                "title": "Cordova",
+                "percentage": "85"
+            },
+            {
+                "icon": "",
+                "title": "Capacitor",
+                "percentage": "80"
+            },
+            {
+                "icon": "",
+                "title": "Flutter 3",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "NodeJs",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "NestJs",
+                "percentage": "85"
+            },
+            {
+                "icon": "",
+                "title": "MongoDB",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "MySQL",
+                "percentage": "80"
+            },
+            {
+                "icon": "",
+                "title": "AWS",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "GCP",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "Gulp",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "Grunt",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "WebPack",
+                "percentage": "90"
+            }
+        ]
+    },
+    "resume": {
+        "title": "Resume",
+        "details": "Technically Sophisticated Professional with nearly 12 years of experience in areas of Software Developing and Programming in web environment. Have Experience in SDLC and SAAS Development more than 4 year in UI Architectural Platform with various JS Frameworks.",
+        "list": [
+            {
+                "icon": "",
+                "title": "Summary",
+                "content": {
+                    "subTitle": "LIONAL. J.",
+                    "year": "2019 - Present",
+                    "location": "",
+                    "description": "Adept in end-to-end development of software products from requirements analysis to system study, designing, coding, testing, de-bugging, documentation and implementation. Deft at mapping the requirements, custom designing solution & troubleshooting for complex software & application programs. Excellent communication & interpersonal skills with abilities in resolving complex software issues. Team Management and Architectural Guidance",
+                    "list": [
+                        "Bangalore, KA, INDIA",
+                        "jpleoleo@gmail.com"
+                    ]
+                }
+            },
+            {
+                "icon": "",
+                "title": "Education",
+                "content": [
+                    {
+                        "subTitle": "Master In MultiMedia",
+                        "year": "2010",
+                        "location": "CH, TN, INDIA",
+                        "description": "Web Development, Web Design, Audio/Video Creation and Editing, App Development, 2D Graphic Design and Game Development.",
+                        "list": [
+                            ""
+                        ]
+                    },
+                    {
+                        "subTitle": "Bachelor of Science",
+                        "year": "2007 - 2010",
+                        "location": "KUM, TN, INDIA",
+                        "description": "Maths, Computer Science and Physics.",
+                        "list": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "",
+                "title": "Professional Experience (2 of 5)",
+                "content": [
+                    {
+                        "subTitle": "UI Architect",
+                        "company": "Tavisca",
+                        "year": "2021-2022",
+                        "location": "PN, MH, INDIA",
+                        "description": "",
+                        "list": [
+                            "Building and Architect Web application using HTML, CSS, SCSS, Javascript, Angular-12, React17+, GraphQl, ES5/ES6, Typescript 1.8/2.x, PrimeNG, NgRx.",
+                            "Analyze the business, functional & non-functional requirement of the ORXe3 project.  (Its travel domain product)",
+                            "Conducted code review meetings with other architects and developers to find bugs, improve performance of the ORXe3 project codebase using Unit Testing, e2e Testing with Jasmine and Karma frameworks, also did Automation Sonar cube testing."
+                        ]
+                    },
+                    {
+                        "subTitle": "Principal Engineer",
+                        "company": "Operative",
+                        "year": "2019 - 2021",
+                        "location": "BEN, KA, INDIA",
+                        "description": "description",
+                        "list": [
+                            "Building and Architect Web application using HTML, CSS, SCSS, js ES5/ES6, jQuery, Angular – 7/8/9, Typescript 1.8/2.x.",
+                            "Performed profiling for CPU, Memory, Bandwidth and FPS using Browser Developer Tools [AG-Grid].",
+                            "Supporting all Angular based products. Team Management, Collaborate with UX and BE Team.",
+                            "Monitoring UI progress to ensure the product quality. Estimation and planning for new Break-through update."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "details": "Some of Samples",
+        "note": {
+            "title": "Please Note:",
+            "description": "use username:abc@gmail.com password:123456 for some apps to login."
+        },
+        "highlight": [
+            {
+                "label": "APP",
+                "key": "app"
+            },
+            {
+                "label": "LIB",
+                "key": "lib"
+            },
+            {
+                "label": "WEB",
+                "key": "web"
+            },
+            {
+                "label": "Test",
+                "key": "test"
+            }
+        ],
+        "list": [
+            {
+                "appTitle": "Chat App",
+                "imgPath": "assets/img/portfolio/portfolio-1.jpg",
+                "title": "A Group Chat Application",
+                "filter": "filter-app",
+                "href": "assets/apps/group-chat/index.html"
+            },
+            {
+                "appTitle": "Mini Shopping Website",
+                "imgPath": "assets/img/portfolio/portfolio-2.jpg",
+                "title": "A simple Shopping Web Application",
+                "filter": "filter-web",
+                "href": "assets/apps/mini-shop-app/index.html"
+            },
+            {
+                "appTitle": "Highlight Location Website",
+                "imgPath": "assets/img/portfolio/portfolio-3.jpg",
+                "title": "Highlight the location with address by click on map and vise versa.",
+                "filter": "filter-web",
+                "href": "assets/apps/my-location-app/index.html"
+            },
+            {
+                "appTitle": "PDF Viewer App",
+                "imgPath": "assets/img/portfolio/portfolio-4.jpg",
+                "title": "PDF Viewer with Controls",
+                "filter": "filter-app",
+                "href": "assets/apps/PDF-Viewer/index.html"
+            },
+            {
+                "appTitle": "Sketch Js-Library",
+                "imgPath": "assets/img/portfolio/portfolio-5.jpg",
+                "title": "Sketch the Text or Sentence or Para and Persist Selections",
+                "filter": "filter-lib",
+                "href": "assets/apps/selection-tool/index.html"
+            },
+            {
+                "appTitle": "Comments App",
+                "imgPath": "assets/img/portfolio/portfolio-6.jpg",
+                "title": "Add Multiple Comments. (Developed using Recursive Template Method)",
+                "filter": "filter-app",
+                "href": "assets/apps/simple-comment-app/index.html"
+            },
+            {
+                "appTitle": "ToDo App (Angular)",
+                "imgPath": "assets/img/portfolio/portfolio-7.jpg",
+                "title": "ToDo App Developed in Angular-15",
+                "filter": "filter-app",
+                "href": "assets/apps/angular-todo-app/index.html"
+            },
+            {
+                "appTitle": "ToDo App (React)",
+                "imgPath": "assets/img/portfolio/portfolio-8.jpg",
+                "title": "ToDo App Developed in React",
+                "filter": "filter-app",
+                "href": "assets/apps/react-todo-app/index.html"
+            },
+            {
+                "appTitle": "ToDo App (Javascript)",
+                "imgPath": "assets/img/portfolio/portfolio-9.jpg",
+                "title": "ToDo App Developed in Javascript",
+                "filter": "filter-app",
+                "href": "assets/apps/javascript-todo-app/index.html"
+            },
+            {
+                "appTitle": "Search App",
+                "imgPath": "assets/img/portfolio/portfolio-10.jpg",
+                "title": "Search by Keyword. (Open source 'swapi' used)",
+                "filter": "filter-app",
+                "href": "assets/apps/search-app/index.html"
+            },
+            {
+                "appTitle": "Responsive Layout Website",
+                "imgPath": "assets/img/portfolio/portfolio-11.jpg",
+                "title": "Responsive Layout. (Dynamic Update)",
+                "filter": "filter-web",
+                "href": "assets/apps/sample-responsive-web/index.html"
+            },
+            {
+                "appTitle": "JS Framework Test",
+                "imgPath": "assets/img/portfolio/portfolio-789.jpg",
+                "title": "Comparison of JS Frameworks (Angular, React, JS)",
+                "filter": "filter-test",
+                "href": "assets/apps/angular-vs-js-vs-react/index.html"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Contact",
+        "details": "Please reach between 10AM to 8PM in case of calling",
+        "list": [
+            {
+                "class": "location",
+                "icon": "bi bi-geo-alt",
+                "title": "Location:",
+                "description": "BEN, KA, INDIA"
+            },
+            {
+                "class": "email",
+                "icon": "bi bi-envelope",
+                "title": "Email:",
+                "description": "jpleoleo@gmail.com"
+            }
+        ],
+        "mapLocation": "https://maps.google.com/maps?q=BTM lake&t=&z=10&ie=UTF8&iwloc=&output=embed"
+    }
+}
