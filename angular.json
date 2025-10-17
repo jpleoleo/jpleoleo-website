@@ -75,10 +75,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "jpleoleo-website:build:production"
+              "buildTarget": "jpleoleo-website:build:production"
             },
             "development": {
-              "browserTarget": "jpleoleo-website:build:development"
+              "buildTarget": "jpleoleo-website:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -86,7 +86,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "jpleoleo-website:build"
+            "buildTarget": "jpleoleo-website:build"
           }
         },
         "test": {
