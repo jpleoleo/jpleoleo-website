@@ -1,19 +1,15 @@
 {
     "name": "Lional. J.",
     "iam": [
-        "FrontEnd/UI Architect, FrontEnd/UI Developer, Angular/React Expert, Flutter Developer, Hybrid Mobile App Developer"
+        "Front-end/UI Architect, Front-end/UI Developer, Fullstack Developer, Angular/React/Vue Expert, Flutter/Ionic Expert, Hybrid Mobile App Developer"
     ],
     "about": {
         "title": "About",
         "details": [
-            "Technically Sophisticated Professional with nearly 12 years of experience in areas of Software Developing and Programming in web environment.",
-            "Have Experience in SDLC and SAAS Development more than 4 year in UI Architectural Platform with various JS Frameworks.",
-            "Adept in end-to-end development of software products from requirements analysis to system study, designing, coding, testing, de-bugging, documentation and implementation.",
-            "Deft at mapping the requirements, custom designing solution & troubleshooting for complex software & application programs.",
-            "Excellent communication & interpersonal skills with abilities in resolving complex software issues.",
-            "Team Management and Architectural Guidance."
+            "Results-driven Senior Front-end Developer with over 14 years of experience in designing, developing, and optimizing high-performance, scalable web applications. Expert in translating complex business requirements into intuitive, user-centered interfaces with a focus on performance, accessibility, and cross-platform compatibility. Proficient in React, Angular, TypeScript, JavaScript (ES6+), HTML5, CSS3, and modern UI frameworks, with strong experience integrating RESTful and GraphQL APIs.",
+            "Demonstrated success in leading front-end architecture, mentoring cross-functional teams, and driving best practices in component-based development, state management, CI/CD, and code optimization. Adept at collaborating with product managers, UX/UI designers, and backend teams to deliver elegant, maintainable, and impactful solutions. Passionate about emerging web technologies, performance tuning, and delivering pixel-perfect, responsive designs that elevate user experience."
         ],
-        "subTitle": "FrontEnd, UI & Web Developer",
+        "subTitle": "Front-end, UI & Web Developer",
         "description": "As a front-end developer, I creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app",
         "othersL": [
             {
@@ -110,7 +106,12 @@
             {
                 "icon": "",
                 "title": "React 16+",
-                "percentage": "90"
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "Vue 2/3",
+                "percentage": "100"
             },
             {
                 "icon": "",
@@ -137,6 +138,16 @@
                 "title": "PrimeNG",
                 "percentage": "95"
             },
+             {
+                "icon": "",
+                "title": "PrimeVue",
+                "percentage": "95"
+            },
+             {
+                "icon": "",
+                "title": "PrimeReact",
+                "percentage": "95"
+            },
             {
                 "icon": "",
                 "title": "WebSockets",
@@ -144,12 +155,7 @@
             },
             {
                 "icon": "",
-                "title": "Ionic 3/4",
-                "percentage": "85"
-            },
-            {
-                "icon": "",
-                "title": "Cordova",
+                "title": "Ionic 7/8",
                 "percentage": "85"
             },
             {
@@ -206,12 +212,32 @@
                 "icon": "",
                 "title": "WebPack",
                 "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "WebPack",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "Playwright",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "Storybook",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "OpenAPI",
+                "percentage": "90"
             }
         ]
     },
     "resume": {
         "title": "Resume",
-        "details": "Technically Sophisticated Professional with nearly 12 years of experience in areas of Software Developing and Programming in web environment. Have Experience in SDLC and SAAS Development more than 4 year in UI Architectural Platform with various JS Frameworks.",
+        "details": "Technically Sophisticated Professional with nearly 14+ years of experience in areas of Software Developing and Programming in web environment. Have Experience in SDLC and SAAS Development more than 6+ year in UI Architectural Platform with various JS Frameworks.",
         "list": [
             {
                 "icon": "",
@@ -253,11 +279,23 @@
             },
             {
                 "icon": "",
-                "title": "Professional Experience (2 of 5)",
+                "title": "Professional Experience (3 of 6)",
                 "content": [
                     {
+                        "subTitle": "Senior Architect",
+                        "company": "Persistent",
+                        "year": "2023-2025",
+                        "location": "PN, MH, INDIA",
+                        "description": "",
+                        "list": [
+                            "Building and Architect Web application using HTML, CSS, SCSS, Javascript, Angular-12, React17+, GraphQl, ES5/ES6, Typescript 1.8/2.x, PrimeNG, NgRx.",
+                            "Analyze the business, functional & non-functional requirement of the ORXe3 project.  (Its travel domain product)",
+                            "Conducted code review meetings with other architects and developers to find bugs, improve performance of the ORXe3 project codebase using Unit Testing, e2e Testing with Jasmine and Karma frameworks, also did Automation Sonar cube testing."
+                        ]
+                    },
+                    {
                         "subTitle": "UI Architect",
-                        "company": "Tavisca",
+                        "company": "JPMC",
                         "year": "2021-2022",
                         "location": "PN, MH, INDIA",
                         "description": "",
