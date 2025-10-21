@@ -349,11 +349,11 @@
         ],
         "list": [
             {
-                "appTitle": "Chat App",
+                "appTitle": "JPLeoleo Andriod App",
                 "imgPath": "assets/img/portfolio/portfolio-1.jpg",
-                "title": "A Group Chat Application",
+                "title": "My Job Profile App",
                 "filter": "filter-app",
-                "href": "assets/apps/group-chat/index.html"
+                "href": "https://play.google.com/store/apps/details?id=com.jpleoleo.profession&hl=en_IN"
             },
             {
                 "appTitle": "Mini Shopping Website",
