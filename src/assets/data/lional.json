@@ -1,20 +1,15 @@
 {
     "name": "Lional. J.",
     "iam": [
-        "FrontEnd/UI Architect, FrontEnd/UI Developer, Angular/React Expert, Flutter Developer, Hybrid Mobile App Developer"
+        "FrontEnd/UI Architect, FrontEnd/UI Engineer, Angular/React/Vue/Node Expert, Flutter/Ionic Expert, Hybrid Mobile App Developer"
     ],
     "about": {
         "title": "About",
         "details": [
-            "Technically Sophisticated Professional with nearly 12 years of experience in areas of Software Developing and Programming in web environment.",
-            "Have Experience in SDLC and SAAS Development more than 4 year in UI Architectural Platform with various JS Frameworks.",
-            "Adept in end-to-end development of software products from requirements analysis to system study, designing, coding, testing, de-bugging, documentation and implementation.",
-            "Deft at mapping the requirements, custom designing solution & troubleshooting for complex software & application programs.",
-            "Excellent communication & interpersonal skills with abilities in resolving complex software issues.",
-            "Team Management and Architectural Guidance."
+            "Results-driven Senior Front-end Engineer with over 14+ years of experience in designing, developing, and optimizing high-performance, scalable web applications. Expert in translating complex business requirements into intuitive, user-centered interfaces with a focus on performance, accessibility, and cross-platform compatibility. Proficient in React, Angular, Vue, TypeScript, JavaScript (ES6+), HTML5, CSS3, and modern UI frameworks, with strong experience integrating RESTful and GraphQL APIs. Demonstrated success in leading front-end architecture, mentoring cross-functional teams, and driving best practices in component-based development, state management, CI/CD, and code optimization. Adept at collaborating with product managers, UX/UI designers, and backend teams to deliver elegant, maintainable, and impactful solutions. Passionate about emerging web technologies, performance tuning, and delivering pixel-perfect, responsive designs that elevate user experience."
         ],
         "subTitle": "FrontEnd, UI & Web Developer",
-        "description": "As a front-end developer, I creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app",
+        "description": "As a front-end engineer, I creates web-applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app",
         "othersL": [
             {
                 "title": "Website",
@@ -37,14 +32,18 @@
         ],
         "otherInfoTitle": "Functional",
         "otherInfo": [
-            "Define best practice for project support and documentation.",
-            "Developing, testing, troubleshooting and debugging of the applications.",
-            "Managing smooth implementation and testing of application.",
-            "Providing post-implementation, application maintenance and enhancement support to the client with regard the product and the software application.",
-            "Cooperating & communicating with other team members for efficient management work.",
-            "Managing & providing technical guidance/support to the project team.",
-            "Automation Programming to create auto build.",
-            "Code Validation and Management"
+            "✶ Application Development",
+            "✶ Performance Optimization",
+            "✶ UI/UX Implementation",
+            "✶ Testing & Quality",
+            "✶ DevOps & Deployment",
+            "✶ Collaboration",
+            "✶ Architecture & System Design",
+            "✶ Technical Leadership",
+            "✶ Scalability & Performance Strategy",
+            "✶ Technology Evaluation",
+            "✶ Security & Governance",
+            "✶ Cross-Team Alignment"
         ]
     },
     "facts": {
@@ -110,7 +109,12 @@
             {
                 "icon": "",
                 "title": "React 16+",
-                "percentage": "90"
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "Vue 2/3",
+                "percentage": "95"
             },
             {
                 "icon": "",
@@ -129,6 +133,16 @@
             },
             {
                 "icon": "",
+                "title": "Tailwind",
+                "percentage": "85"
+            },
+            {
+                "icon": "",
+                "title": "Figma",
+                "percentage": "90"
+            },
+            {
+                "icon": "",
                 "title": "Material UI",
                 "percentage": "90"
             },
@@ -139,12 +153,22 @@
             },
             {
                 "icon": "",
+                "title": "PrimeVue",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "PrimeReact",
+                "percentage": "95"
+            },
+	    {
+                "icon": "",
                 "title": "WebSockets",
                 "percentage": "95"
             },
             {
                 "icon": "",
-                "title": "Ionic 3/4",
+                "title": "Ionic",
                 "percentage": "85"
             },
             {
@@ -206,12 +230,27 @@
                 "icon": "",
                 "title": "WebPack",
                 "percentage": "90"
+            },
+            {
+                "icon": "",
+                "title": "Playwright",
+                "percentage": "95"
+            },
+            {
+                "icon": "",
+                "title": "Storybook",
+                "percentage": "85"
+            },
+            {
+                "icon": "",
+                "title": "OpenAPI",
+                "percentage": "90"
             }
         ]
     },
     "resume": {
         "title": "Resume",
-        "details": "Technically Sophisticated Professional with nearly 12 years of experience in areas of Software Developing and Programming in web environment. Have Experience in SDLC and SAAS Development more than 4 year in UI Architectural Platform with various JS Frameworks.",
+        "details": "Technically Sophisticated Professional with nearly 14+ years of experience in areas of Software Developing and Programming in web environment. Have Experience in SDLC and SAAS Development more than 6+ year in UI Architectural Platform with various JS Frameworks.",
         "list": [
             {
                 "icon": "",
@@ -253,11 +292,23 @@
             },
             {
                 "icon": "",
-                "title": "Professional Experience (2 of 5)",
+                "title": "Professional Experience (3 of 6)",
                 "content": [
                     {
+                        "subTitle": "Senior Architect",
+                        "company": "Persistent",
+                        "year": "2023-2025",
+                        "location": "PN, MH, INDIA",
+                        "description": "",
+                        "list": [
+                            "Scalable Architecture Design & Technical Strategy",
+                            "Technology Leadership & Engineering Excellence",
+                            "Stakeholder Alignment & Solution Delivery"
+                        ]
+                    },
+                    {
                         "subTitle": "UI Architect",
-                        "company": "Tavisca",
+                        "company": "JPMC",
                         "year": "2021-2022",
                         "location": "PN, MH, INDIA",
                         "description": "",
@@ -311,11 +362,11 @@
         ],
         "list": [
             {
-                "appTitle": "Chat App",
+                "appTitle": "JPLeoleo Andriod App",
                 "imgPath": "assets/img/portfolio/portfolio-1.jpg",
-                "title": "A Group Chat Application",
+                "title": "My Job Profile App",
                 "filter": "filter-app",
-                "href": "assets/apps/group-chat/index.html"
+                "href": "https://play.google.com/store/apps/details?id=com.jpleoleo.profession&hl=en_IN"
             },
             {
                 "appTitle": "Mini Shopping Website",
@@ -323,6 +374,13 @@
                 "title": "A simple Shopping Web Application",
                 "filter": "filter-web",
                 "href": "assets/apps/mini-shop-app/index.html"
+            },
+            {
+                "appTitle": "Video Editor",
+                "imgPath": "assets/img/portfolio/portfolio-13.jpg",
+                "title": "A Video Sequencing and Subtitling Web Application",
+                "filter": "filter-app",
+                "href": "assets/apps/video-editor/index.html"
             },
             {
                 "appTitle": "Highlight Location Website",
@@ -389,7 +447,7 @@
             },
             {
                 "appTitle": "JS Framework Test",
-                "imgPath": "assets/img/portfolio/portfolio-789.jpg",
+                "imgPath": "assets/img/portfolio/portfolio-12.jpg",
                 "title": "Comparison of JS Frameworks (Angular, React, JS)",
                 "filter": "filter-test",
                 "href": "assets/apps/angular-vs-js-vs-react/index.html"
